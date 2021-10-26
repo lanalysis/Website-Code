@@ -1,1 +1,1 @@
-This is the LaymanaAnalysis.com code. Use code in Jupyter Notebooks. 
+This is the LaymanaAnalysis.com code. Please use code in Jupyter Notebooks. Algorithmic Trading code cannot be published due to interface issues with Blueshift Quantinsti; the code will not work outside of the editor. 
